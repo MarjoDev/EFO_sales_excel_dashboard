@@ -1,6 +1,7 @@
 # 📊 Electronics / Furniture / Office Supplies Sales Dashboard
 
-![Dashboard Preview](dashboard/screenshots/dashboard-overview.png)
+![Dashboard Preview](<img width="979" height="652" alt="image" src="https://github.com/user-attachments/assets/81ea25f2-9fbb-45e7-af59-a43a3d5f277e" />
+)
 
 ## 🎯 Objective
 
@@ -81,12 +82,19 @@ Example formula structure:
 
 The dataset contains fictional retail sales information including:
 
+* Order ID
+* Value
+* Cost
+* Quantity
+* Customer Name
+* Order Date
 * Product categories
 * Sub-categories
 * Profit
 * Payment methods
-* Monthly sales
-* State locations
+* Year Month
+* State
+* City
 
 ---
 
