@@ -1,7 +1,6 @@
 # 📊 Electronics / Furniture / Office Supplies Sales Dashboard
 
-![Dashboard Preview](<img width="979" height="652" alt="image" src="https://github.com/user-attachments/assets/81ea25f2-9fbb-45e7-af59-a43a3d5f277e" />
-)
+![Dashboard Preview](screenshots/efo_dashboard_preview.jpg)
 
 ## 🎯 Objective
 
