@@ -163,3 +163,29 @@ The dataset contains fictional sales data including:
 - Additional business KPIs
 
 ---
+
+## 👨‍💻 Author
+
+### Marcelo Pereira
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarjoDev)
+
+---
+
+# 📚 Dataset Reference | Referência do Dataset
+
+🇺🇸 Dataset used in this project was provided by:
+
+🔗 https://www.kaggle.com/datasets/shantanugarg274/sales-dataset
+
+Special thanks to the dataset creator for making the data publicly available for analysis and educational purposes.
+
+---
+
+🇧🇷 O dataset utilizado neste projeto foi disponibilizado por:
+
+🔗 https://www.kaggle.com/datasets/shantanugarg274/sales-dataset
+
+Agradecimentos ao criador do dataset por disponibilizar os dados publicamente para fins educacionais e analíticos.
+
+---
